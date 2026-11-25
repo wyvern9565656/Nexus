@@ -96,4 +96,8 @@ Para ver todas as opções de um comando, use `nexus --help` ou `nexus <comando>
 
 ## Dados e privacidade
 
+<<<<<<< HEAD
 O índice é um banco SQLite local. A pesquisa e as análises descritas neste README usam esse índice; execute uma varredura para atualizar as informações depois de mudanças nos arquivos. O Nexus não precisa de uma conta ou serviço remoto para essas funções.⏎                
+=======
+O índice é um banco SQLite local. A pesquisa e as análises descritas neste README usam esse índice; execute uma varredura para atualizar as informações depois de mudanças nos arquivos. O Nexus não precisa de uma conta ou serviço remoto para essas funções.
+>>>>>>> 73b81ad (Initial commit: Nexus app)

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=NEXUS
+GenericName=Gerenciador de Arquivos
+Comment=Navegue, pesquise e analise o espaço em disco
+TryExec=/home/user/nexus/target/release/nexus
+Exec="/home/user/nexus/target/release/nexus"
+Path=/home/user/nexus
+Icon=/home/user/.local/share/icons/hicolor/512x512/apps/nexus.png
+Terminal=false
+Categories=Utility;FileTools;
+MimeType=inode/directory;
+Keywords=files;arquivos;manager;gerenciador;disk;disco;storage;duplicatas;
+StartupNotify=true
+StartupWMClass=nexus
